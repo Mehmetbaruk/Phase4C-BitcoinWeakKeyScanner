@@ -1,0 +1,24 @@
+# Known Weak Keys for Testing
+# ============================
+# These are synthetic weak keys generated with known seeds for validation
+
+# Test Vector 1: Seed 12345
+seed: 12345
+private_key: [Generated deterministically]
+address: [Testnet address]
+weakness: MT19937 with low seed
+
+# Test Vector 2: Seed 99999
+seed: 99999
+private_key: [Generated deterministically]
+address: [Testnet address]
+weakness: MT19937 with low seed
+
+# Test Vector 3: Sequential generation
+seeds: [1000, 1001, 1002, 1003, 1004]
+pattern: Sequential seed space
+vulnerability: Predictable iteration
+
+# Usage:
+# Run create_weak_key_for_testing() in PRNG reconstructor to generate
+# actual addresses for these seeds, then verify recovery works.

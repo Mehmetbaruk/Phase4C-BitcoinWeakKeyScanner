@@ -1,0 +1,2756 @@
+{
+  "timestamp": "2025-11-05T20:21:43.285687",
+  "addresses_processed": 100,
+  "weak_found": 100,
+  "keys_recovered": 0,
+  "addresses_analyzed": [
+    {
+      "address": "mp52VHqmkNgzzuuM9Fcc6uXrrzH4SvL3Yx",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "5dd64dea306a404539926b91d4445626eb6575e6279bfffb135ac753cc7a40bd",
+      "collected_at": "2025-11-03T20:35:07.528954"
+    },
+    {
+      "address": "tb1qf9386ynqyz9cek685qn483dx9u2nsezf4fug2r",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "fa7cde46b62e5369216455f64d13c4b4283fe95e60cc731664c8515b0a88cb12",
+      "collected_at": "2025-11-03T20:35:09.534920"
+    },
+    {
+      "address": "tb1qpw693a6l8yvp25n88gz3hjwr5pq3lfpnfdersa",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "fa7cde46b62e5369216455f64d13c4b4283fe95e60cc731664c8515b0a88cb12",
+      "collected_at": "2025-11-03T20:35:09.535360"
+    },
+    {
+      "address": "tb1q9hgyvdu3px95md89qh89my2gatg7jhtqsp8uj3",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "1cadcca5ae10f2643ef64e1adb0d578e2235374dd3a68798c4638eedd764020f",
+      "collected_at": "2025-11-03T20:35:11.535340"
+    },
+    {
+      "address": "tb1qmf5pdg29guzvm5pngqmawfywdf357tjh85vs2a",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "1cadcca5ae10f2643ef64e1adb0d578e2235374dd3a68798c4638eedd764020f",
+      "collected_at": "2025-11-03T20:35:11.535781"
+    },
+    {
+      "address": "tb1p8qh68rvq2aq4qswq0mu2unv2nzf5serfs4rvd4a77yhnqn00khssscgwqs",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079",
+      "collected_at": "2025-11-03T20:35:15.546688"
+    },
+    {
+      "address": "tb1pw2hn68wgx9nqhq9nhq35h8pthkxnv4afp9klzka9mrhf9cjg2jxqawcvhx",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079",
+      "collected_at": "2025-11-03T20:35:15.547140"
+    },
+    {
+      "address": "tb1p7y86tuw2p6vle767dacvde72n4a8r7nljekqm9zxy6gnmzy6xrnq5dkqdq",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079",
+      "collected_at": "2025-11-03T20:35:15.547206"
+    },
+    {
+      "address": "tb1qashx6f8kw29fq5rwcnpuzh5aufu24xquevdk7y",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e",
+      "collected_at": "2025-11-03T20:35:17.545581"
+    },
+    {
+      "address": "tb1qwzac060kz4wyczdvl46sp9nrtp60cgp4x9gewm",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e",
+      "collected_at": "2025-11-03T20:35:17.545984"
+    },
+    {
+      "address": "tb1qkpds9027dv2yuuvuf67kd7ud9t9z47vx4esaje",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e",
+      "collected_at": "2025-11-03T20:35:17.546101"
+    },
+    {
+      "address": "tb1q2thl5qjx5cdyge4snq5f9xyheup5zuc4egxlcx",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2",
+      "collected_at": "2025-11-03T20:35:19.541885"
+    },
+    {
+      "address": "tb1q77hz5gj0050k5p4vsx9dgy368fhamakdr22n5h",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2",
+      "collected_at": "2025-11-03T20:35:19.542093"
+    },
+    {
+      "address": "tb1qjmdk4y55ftn47wvhwdlhuf99pjf95zcxy2n7rq",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2",
+      "collected_at": "2025-11-03T20:35:19.542145"
+    },
+    {
+      "address": "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "9b263ba59d31c7f9f7471f3c40ca6371a31ba6f719a1b6b316ca08780bdfb174",
+      "collected_at": "2025-11-03T20:35:25.549738"
+    },
+    {
+      "address": "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "9b263ba59d31c7f9f7471f3c40ca6371a31ba6f719a1b6b316ca08780bdfb174",
+      "collected_at": "2025-11-03T20:35:25.550136"
+    },
+    {
+      "address": "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "378997483240137b56dae7207ec09a5440e64629865cba50217dc34bcbe528d9",
+      "collected_at": "2025-11-03T20:35:27.549004"
+    },
+    {
+      "address": "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "378997483240137b56dae7207ec09a5440e64629865cba50217dc34bcbe528d9",
+      "collected_at": "2025-11-03T20:35:27.549514"
+    },
+    {
+      "address": "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "c4c163fdfe8ecb5590b757966a19760ef3a096051dd1923d661f1f50492b5ee7",
+      "collected_at": "2025-11-03T20:35:29.551659"
+    },
+    {
+      "address": "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "c4c163fdfe8ecb5590b757966a19760ef3a096051dd1923d661f1f50492b5ee7",
+      "collected_at": "2025-11-03T20:35:29.551939"
+    },
+    {
+      "address": "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba",
+      "collected_at": "2025-11-03T20:35:31.557383"
+    },
+    {
+      "address": "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba",
+      "collected_at": "2025-11-03T20:35:31.557821"
+    },
+    {
+      "address": "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba",
+      "collected_at": "2025-11-03T20:35:31.557886"
+    },
+    {
+      "address": "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "cf542f29e62238374c70dbec9d0ca8ad8bf418e1fd9655d7abbf0560fc1fec26",
+      "collected_at": "2025-11-03T20:35:37.559894"
+    },
+    {
+      "address": "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur",
+      "block_height": 4750532,
+      "block_hash": "00000000000f1172f88eb08fe2102ac3ea5ef18815040098258d05b71558d925",
+      "transaction": "cf542f29e62238374c70dbec9d0ca8ad8bf418e1fd9655d7abbf0560fc1fec26",
+      "collected_at": "2025-11-03T20:35:37.560175"
+    },
+    {
+      "address": "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3",
+      "collected_at": "2025-11-03T20:35:43.566990"
+    },
+    {
+      "address": "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3",
+      "collected_at": "2025-11-03T20:35:43.567404"
+    },
+    {
+      "address": "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3",
+      "collected_at": "2025-11-03T20:35:43.567466"
+    },
+    {
+      "address": "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ae9a8e552f3bb6aeedb8e8163d40f83ef52002158ff34548c84e811b47fc7a90",
+      "collected_at": "2025-11-03T20:35:47.571193"
+    },
+    {
+      "address": "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ae9a8e552f3bb6aeedb8e8163d40f83ef52002158ff34548c84e811b47fc7a90",
+      "collected_at": "2025-11-03T20:35:47.571658"
+    },
+    {
+      "address": "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605",
+      "collected_at": "2025-11-03T20:35:49.574190"
+    },
+    {
+      "address": "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605",
+      "collected_at": "2025-11-03T20:35:49.574675"
+    },
+    {
+      "address": "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605",
+      "collected_at": "2025-11-03T20:35:49.574744"
+    },
+    {
+      "address": "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "13e947318dcdc11d58ee3e77383ec46a1bc8ef0e8afade190d675d1a8fd642da",
+      "collected_at": "2025-11-03T20:35:55.578620"
+    },
+    {
+      "address": "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "13e947318dcdc11d58ee3e77383ec46a1bc8ef0e8afade190d675d1a8fd642da",
+      "collected_at": "2025-11-03T20:35:55.579079"
+    },
+    {
+      "address": "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "76f7ed01c3be90d8c8ede32884ae4c36d5c398cffbd2be180f21e75d22216078",
+      "collected_at": "2025-11-03T20:35:57.580345"
+    },
+    {
+      "address": "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "76f7ed01c3be90d8c8ede32884ae4c36d5c398cffbd2be180f21e75d22216078",
+      "collected_at": "2025-11-03T20:35:57.580851"
+    },
+    {
+      "address": "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "bf0bcb84d9d04e3be63f8459d6d5ae83828505d5eef91af5868d19e36c577b29",
+      "collected_at": "2025-11-03T20:35:59.581442"
+    },
+    {
+      "address": "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f",
+      "collected_at": "2025-11-03T20:36:01.583775"
+    },
+    {
+      "address": "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f",
+      "collected_at": "2025-11-03T20:36:01.584046"
+    },
+    {
+      "address": "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f",
+      "collected_at": "2025-11-03T20:36:01.584144"
+    },
+    {
+      "address": "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f",
+      "collected_at": "2025-11-03T20:36:01.584195"
+    },
+    {
+      "address": "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3",
+      "collected_at": "2025-11-03T20:36:03.591838"
+    },
+    {
+      "address": "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3",
+      "collected_at": "2025-11-03T20:36:03.592298"
+    },
+    {
+      "address": "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3",
+      "collected_at": "2025-11-03T20:36:03.592367"
+    },
+    {
+      "address": "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b",
+      "collected_at": "2025-11-03T20:36:05.592090"
+    },
+    {
+      "address": "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b",
+      "collected_at": "2025-11-03T20:36:05.592458"
+    },
+    {
+      "address": "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b",
+      "collected_at": "2025-11-03T20:36:05.592768"
+    },
+    {
+      "address": "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927",
+      "collected_at": "2025-11-03T20:36:07.592424"
+    },
+    {
+      "address": "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927",
+      "collected_at": "2025-11-03T20:36:07.592819"
+    },
+    {
+      "address": "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo",
+      "block_height": 4750531,
+      "block_hash": "00000000ac0f720986a566aba1a7ba34ed4a5fada6b67b622fe40b7f27b2d5ac",
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927",
+      "collected_at": "2025-11-03T20:36:07.592942"
+    },
+    {
+      "address": "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "407c9cffb02d51d18561671dac743b6033f7af0abbdabae1b9ab74261e315e00",
+      "collected_at": "2025-11-03T20:36:11.594119"
+    },
+    {
+      "address": "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae",
+      "collected_at": "2025-11-03T20:36:13.596670"
+    },
+    {
+      "address": "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae",
+      "collected_at": "2025-11-03T20:36:13.596897"
+    },
+    {
+      "address": "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae",
+      "collected_at": "2025-11-03T20:36:13.596963"
+    },
+    {
+      "address": "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "3b9f6a21f5088e8e976a5ac59be0daa12caa419a22364cafbf221745a23cda21",
+      "collected_at": "2025-11-03T20:36:15.602557"
+    },
+    {
+      "address": "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "3b9f6a21f5088e8e976a5ac59be0daa12caa419a22364cafbf221745a23cda21",
+      "collected_at": "2025-11-03T20:36:15.603007"
+    },
+    {
+      "address": "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "6686af6fa4b05e8757c1ff5de62b3e765ae7b9f24d6179449fb163260aef12bb",
+      "collected_at": "2025-11-03T20:36:17.598971"
+    },
+    {
+      "address": "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "6686af6fa4b05e8757c1ff5de62b3e765ae7b9f24d6179449fb163260aef12bb",
+      "collected_at": "2025-11-03T20:36:17.599315"
+    },
+    {
+      "address": "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3",
+      "collected_at": "2025-11-03T20:36:19.602096"
+    },
+    {
+      "address": "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3",
+      "collected_at": "2025-11-03T20:36:19.602545"
+    },
+    {
+      "address": "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3",
+      "collected_at": "2025-11-03T20:36:19.602621"
+    },
+    {
+      "address": "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0",
+      "collected_at": "2025-11-03T20:36:25.608453"
+    },
+    {
+      "address": "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0",
+      "collected_at": "2025-11-03T20:36:25.608980"
+    },
+    {
+      "address": "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0",
+      "collected_at": "2025-11-03T20:36:25.609060"
+    },
+    {
+      "address": "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219",
+      "collected_at": "2025-11-03T20:36:27.609888"
+    },
+    {
+      "address": "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219",
+      "collected_at": "2025-11-03T20:36:27.610284"
+    },
+    {
+      "address": "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219",
+      "collected_at": "2025-11-03T20:36:27.610347"
+    },
+    {
+      "address": "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "5048293b1c1a23916d7728e9ba823d3c446285a8da16087c73c5fff5d68ebd0b",
+      "collected_at": "2025-11-03T20:36:29.611749"
+    },
+    {
+      "address": "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "5048293b1c1a23916d7728e9ba823d3c446285a8da16087c73c5fff5d68ebd0b",
+      "collected_at": "2025-11-03T20:36:29.611998"
+    },
+    {
+      "address": "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "7158f5e456e23715df4eaf385d9c7ca684397939dc04161f08bc7eaad90e2c09",
+      "collected_at": "2025-11-03T20:36:35.621900"
+    },
+    {
+      "address": "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "7158f5e456e23715df4eaf385d9c7ca684397939dc04161f08bc7eaad90e2c09",
+      "collected_at": "2025-11-03T20:36:35.622325"
+    },
+    {
+      "address": "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "866ee403fe6d490a34dd1356c3a8a6a0f411839d55df17c345ea1b790c32470e",
+      "collected_at": "2025-11-03T20:36:37.625432"
+    },
+    {
+      "address": "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "866ee403fe6d490a34dd1356c3a8a6a0f411839d55df17c345ea1b790c32470e",
+      "collected_at": "2025-11-03T20:36:37.625870"
+    },
+    {
+      "address": "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "6d3f5dcf72681b1bc463599e8656fa0ac9db7048f278ac4d11ca769bbf037146",
+      "collected_at": "2025-11-03T20:36:39.622834"
+    },
+    {
+      "address": "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "6d3f5dcf72681b1bc463599e8656fa0ac9db7048f278ac4d11ca769bbf037146",
+      "collected_at": "2025-11-03T20:36:39.623225"
+    },
+    {
+      "address": "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "b888304e009686b44ae061f15be237ab078b22b5aefda770a7dd7241acf0d06c",
+      "collected_at": "2025-11-03T20:36:41.626076"
+    },
+    {
+      "address": "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "0828e40e6d6866bb7b61114336e074e1988faf49a016008daca1f65b66a86783",
+      "collected_at": "2025-11-03T20:36:43.627170"
+    },
+    {
+      "address": "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd",
+      "block_height": 4750530,
+      "block_hash": "0000000098eaedbf9660ce11658fd7ec4d50709edbb219384e747115fdfc0416",
+      "transaction": "0828e40e6d6866bb7b61114336e074e1988faf49a016008daca1f65b66a86783",
+      "collected_at": "2025-11-03T20:36:43.627576"
+    },
+    {
+      "address": "tb1qtmrfp2u5nk4jfmk5f4jeyvny59ezmlzxau9m8e",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "35dada77a6e50a1049eb6dff3bd6eba5fbc023dd60af1bb995114fcce240d2c3",
+      "collected_at": "2025-11-03T20:36:49.633083"
+    },
+    {
+      "address": "tb1qkhfkacnyq2e9vwj6drzw92qhmp4tuk4y3lhrjx",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "35dada77a6e50a1049eb6dff3bd6eba5fbc023dd60af1bb995114fcce240d2c3",
+      "collected_at": "2025-11-03T20:36:49.633521"
+    },
+    {
+      "address": "tb1q48rrf3p9u0uvf7ezmatt22c4nkxyvvgezrga5k",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "6f060ee5a96e8b9abe1da82de944b24c2be48ba6775efa6c2e8049c3860c2df2",
+      "collected_at": "2025-11-03T20:36:51.635414"
+    },
+    {
+      "address": "tb1qu9pxx4cg8g87avedaf7vkpeqf5sa55jfll45du",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "6f060ee5a96e8b9abe1da82de944b24c2be48ba6775efa6c2e8049c3860c2df2",
+      "collected_at": "2025-11-03T20:36:51.635970"
+    },
+    {
+      "address": "tb1q8cjs6fhmlaaflzd9cegjlmu5fs6u67mhh8gcu0",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "a8a5d4d27fefdf19d5a515543bb35b023b393ce88fb8362f7ed6a40ace44044a",
+      "collected_at": "2025-11-03T20:36:53.636225"
+    },
+    {
+      "address": "tb1qe53fq47trq7tnkjht55cgssthjypwvsw476q65",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "a8a5d4d27fefdf19d5a515543bb35b023b393ce88fb8362f7ed6a40ace44044a",
+      "collected_at": "2025-11-03T20:36:53.636685"
+    },
+    {
+      "address": "tb1qhcgu6f353c2ranqkuwx8h74wyh4zzm5umlmqhl",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "176e011c1703cbafcde5d4ae7f1560c8ac1fbb2c2047391cd93fa24b972288b2",
+      "collected_at": "2025-11-03T20:36:55.641416"
+    },
+    {
+      "address": "tb1qqtuwzvg9za98dwe7g7r202y6cxe82hl6tt64f7",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "176e011c1703cbafcde5d4ae7f1560c8ac1fbb2c2047391cd93fa24b972288b2",
+      "collected_at": "2025-11-03T20:36:55.641839"
+    },
+    {
+      "address": "2MxQDRytQtPURyowd5ZgoJGJB53coMJBRNF",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "8725d52054c841bba751b2c603e8c11f97c7aeedc011fb7e8a86cdca6fc269f8",
+      "collected_at": "2025-11-03T20:36:57.641233"
+    },
+    {
+      "address": "2NDeDsPXziRBtdy2Wx2vAhpytWB7ufa8aJY",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "8725d52054c841bba751b2c603e8c11f97c7aeedc011fb7e8a86cdca6fc269f8",
+      "collected_at": "2025-11-03T20:36:57.641652"
+    },
+    {
+      "address": "tb1q292ugqqcklpnzlngn490h7n3f7ut0nt8tuxqxz",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650",
+      "collected_at": "2025-11-03T20:37:03.647715"
+    },
+    {
+      "address": "tb1q3j3rhxqjvanvzu7fvtsjgn7svdcz52ssj4vmns",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650",
+      "collected_at": "2025-11-03T20:37:03.648153"
+    },
+    {
+      "address": "tb1qsmul7238upywp3k6p4qm2a25tlp59glyn7jzr2",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650",
+      "collected_at": "2025-11-03T20:37:03.648200"
+    },
+    {
+      "address": "tb1q4kw7vxcfy86y2mwhtsnqquyful6ux9ltr6kpe8",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650",
+      "collected_at": "2025-11-03T20:37:03.648240"
+    },
+    {
+      "address": "tb1qnvlqx6jh5xpgl654z7c2h9ahhl4pxeh8qyc73n",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650",
+      "collected_at": "2025-11-03T20:37:03.648289"
+    },
+    {
+      "address": "tb1qm8ucg0d2ty7fqre9zx9j0dd56f676xvyjxpl47",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77",
+      "collected_at": "2025-11-03T20:37:09.657238"
+    },
+    {
+      "address": "tb1qtnus3wmqyrspcw24xc2agc7qvtfs4yvuf0xj0p",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77",
+      "collected_at": "2025-11-03T20:37:09.657646"
+    },
+    {
+      "address": "tb1qw2c3lxufxqe2x9s4rdzh65tpf4d7fssjgh8nv6",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77",
+      "collected_at": "2025-11-03T20:37:09.657708"
+    },
+    {
+      "address": "tb1qgd9r4gxrg2razvfut5qnje0naauag8agzya06e",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e",
+      "collected_at": "2025-11-03T20:37:11.656184"
+    },
+    {
+      "address": "tb1qlslwed2t06mrahctucgz38w6r7hncpvy6y0nc4",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e",
+      "collected_at": "2025-11-03T20:37:11.656631"
+    },
+    {
+      "address": "tb1qzjce5zw7j3ugd0hvcfkm4j4y5ly7sqcjjzql2u",
+      "block_height": 4750529,
+      "block_hash": "000000007f9294926abe3f7503c6d53435371691aa71cb767f80c522b4087aa1",
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e",
+      "collected_at": "2025-11-03T20:37:11.656726"
+    }
+  ],
+  "entropy_results": [
+    {
+      "address": "mp52VHqmkNgzzuuM9Fcc6uXrrzH4SvL3Yx",
+      "shannon_entropy": 4.5725,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "5dd64dea306a404539926b91d4445626eb6575e6279bfffb135ac753cc7a40bd"
+    },
+    {
+      "address": "tb1qf9386ynqyz9cek685qn483dx9u2nsezf4fug2r",
+      "shannon_entropy": 4.4453,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "11",
+          "position": 52
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "fa7cde46b62e5369216455f64d13c4b4283fe95e60cc731664c8515b0a88cb12"
+    },
+    {
+      "address": "tb1qpw693a6l8yvp25n88gz3hjwr5pq3lfpnfdersa",
+      "shannon_entropy": 4.5468,
+      "hash_entropy": 4.8514,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a0",
+          "position": 50
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "fa7cde46b62e5369216455f64d13c4b4283fe95e60cc731664c8515b0a88cb12"
+    },
+    {
+      "address": "tb1q9hgyvdu3px95md89qh89my2gatg7jhtqsp8uj3",
+      "shannon_entropy": 4.3024,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "1cadcca5ae10f2643ef64e1adb0d578e2235374dd3a68798c4638eedd764020f"
+    },
+    {
+      "address": "tb1qmf5pdg29guzvm5pngqmawfywdf357tjh85vs2a",
+      "shannon_entropy": 4.4813,
+      "hash_entropy": 4.7264,
+      "chi_square_statistic": 304.0,
+      "chi_square_p_value": 0.019057,
+      "unique_bytes": 28,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "1cadcca5ae10f2643ef64e1adb0d578e2235374dd3a68798c4638eedd764020f"
+    },
+    {
+      "address": "tb1p8qh68rvq2aq4qswq0mu2unv2nzf5serfs4rvd4a77yhnqn00khssscgwqs",
+      "shannon_entropy": 4.5375,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079"
+    },
+    {
+      "address": "tb1pw2hn68wgx9nqhq9nhq35h8pthkxnv4afp9klzka9mrhf9cjg2jxqawcvhx",
+      "shannon_entropy": 4.4981,
+      "hash_entropy": 4.6639,
+      "chi_square_statistic": 320.0,
+      "chi_square_p_value": 0.003534,
+      "unique_bytes": 27,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "WEAK",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079"
+    },
+    {
+      "address": "tb1p7y86tuw2p6vle767dacvde72n4a8r7nljekqm9zxy6gnmzy6xrnq5dkqdq",
+      "shannon_entropy": 4.6521,
+      "hash_entropy": 4.75,
+      "chi_square_statistic": 288.0,
+      "chi_square_p_value": 0.076098,
+      "unique_bytes": 28,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "a07604e85dc495f13b18184be30eae22a9ecb421d029757cc70f6d71d501e079"
+    },
+    {
+      "address": "tb1qashx6f8kw29fq5rwcnpuzh5aufu24xquevdk7y",
+      "shannon_entropy": 4.6421,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e"
+    },
+    {
+      "address": "tb1qwzac060kz4wyczdvl46sp9nrtp60cgp4x9gewm",
+      "shannon_entropy": 4.457,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e"
+    },
+    {
+      "address": "tb1qkpds9027dv2yuuvuf67kd7ud9t9z47vx4esaje",
+      "shannon_entropy": 4.3088,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "4ceddc337a00362bae712c3d15f252d46c82088f6f708228083dcfb7e60ab53e"
+    },
+    {
+      "address": "tb1q2thl5qjx5cdyge4snq5f9xyheup5zuc4egxlcx",
+      "shannon_entropy": 4.3384,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2"
+    },
+    {
+      "address": "tb1q77hz5gj0050k5p4vsx9dgy368fhamakdr22n5h",
+      "shannon_entropy": 4.6897,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2"
+    },
+    {
+      "address": "tb1qjmdk4y55ftn47wvhwdlhuf99pjf95zcxy2n7rq",
+      "shannon_entropy": 4.5765,
+      "hash_entropy": 4.6875,
+      "chi_square_statistic": 304.0,
+      "chi_square_p_value": 0.019057,
+      "unique_bytes": 27,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750533,
+      "transaction": "809496f2f86470e111bbe433488fdc2c29bb2828db11a0359996454cc6501ee2"
+    },
+    {
+      "address": "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+      "shannon_entropy": 4.6241,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "29",
+          "position": 16
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "9b263ba59d31c7f9f7471f3c40ca6371a31ba6f719a1b6b316ca08780bdfb174"
+    },
+    {
+      "address": "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+      "shannon_entropy": 4.3816,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "9b263ba59d31c7f9f7471f3c40ca6371a31ba6f719a1b6b316ca08780bdfb174"
+    },
+    {
+      "address": "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+      "shannon_entropy": 4.5908,
+      "hash_entropy": 4.7264,
+      "chi_square_statistic": 304.0,
+      "chi_square_p_value": 0.019057,
+      "unique_bytes": 28,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "378997483240137b56dae7207ec09a5440e64629865cba50217dc34bcbe528d9"
+    },
+    {
+      "address": "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+      "shannon_entropy": 4.4633,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "2e",
+          "position": 16
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "378997483240137b56dae7207ec09a5440e64629865cba50217dc34bcbe528d9"
+    },
+    {
+      "address": "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+      "shannon_entropy": 4.4992,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "c4c163fdfe8ecb5590b757966a19760ef3a096051dd1923d661f1f50492b5ee7"
+    },
+    {
+      "address": "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+      "shannon_entropy": 4.6304,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "d7",
+          "position": 37
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "c4c163fdfe8ecb5590b757966a19760ef3a096051dd1923d661f1f50492b5ee7"
+    },
+    {
+      "address": "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+      "shannon_entropy": 4.6721,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba"
+    },
+    {
+      "address": "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+      "shannon_entropy": 4.2646,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba"
+    },
+    {
+      "address": "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+      "shannon_entropy": 4.5934,
+      "hash_entropy": 4.7889,
+      "chi_square_statistic": 288.0,
+      "chi_square_p_value": 0.076098,
+      "unique_bytes": 29,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "7e",
+          "position": 4
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "3fe20f7225d52f657410790c6d983afd1b851fc36436a06f6c39a731b23026ba"
+    },
+    {
+      "address": "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+      "shannon_entropy": 4.318,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "cf542f29e62238374c70dbec9d0ca8ad8bf418e1fd9655d7abbf0560fc1fec26"
+    },
+    {
+      "address": "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur",
+      "shannon_entropy": 4.7193,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750532,
+      "transaction": "cf542f29e62238374c70dbec9d0ca8ad8bf418e1fd9655d7abbf0560fc1fec26"
+    },
+    {
+      "address": "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+      "shannon_entropy": 4.318,
+      "hash_entropy": 4.6875,
+      "chi_square_statistic": 304.0,
+      "chi_square_p_value": 0.019057,
+      "unique_bytes": 27,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3"
+    },
+    {
+      "address": "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+      "shannon_entropy": 4.5765,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "3f",
+          "position": 53
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3"
+    },
+    {
+      "address": "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+      "shannon_entropy": 4.6124,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "e393a2349fa241e998ee631c5db9d20369e607de396d824478f6ae06f75900a3"
+    },
+    {
+      "address": "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+      "shannon_entropy": 4.4336,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ae9a8e552f3bb6aeedb8e8163d40f83ef52002158ff34548c84e811b47fc7a90"
+    },
+    {
+      "address": "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+      "shannon_entropy": 4.7193,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ae9a8e552f3bb6aeedb8e8163d40f83ef52002158ff34548c84e811b47fc7a90"
+    },
+    {
+      "address": "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+      "shannon_entropy": 4.5289,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605"
+    },
+    {
+      "address": "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+      "shannon_entropy": 4.4157,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605"
+    },
+    {
+      "address": "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+      "shannon_entropy": 4.4313,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "04",
+          "position": 24
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "914b5607ea8a323f89ae3983e85458a68c23cf63ce08e1e51c3f0f12d385f605"
+    },
+    {
+      "address": "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+      "shannon_entropy": 4.7077,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "13e947318dcdc11d58ee3e77383ec46a1bc8ef0e8afade190d675d1a8fd642da"
+    },
+    {
+      "address": "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+      "shannon_entropy": 4.4576,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "13e947318dcdc11d58ee3e77383ec46a1bc8ef0e8afade190d675d1a8fd642da"
+    },
+    {
+      "address": "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+      "shannon_entropy": 4.6432,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a5",
+          "position": 4
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "76f7ed01c3be90d8c8ede32884ae4c36d5c398cffbd2be180f21e75d22216078"
+    },
+    {
+      "address": "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+      "shannon_entropy": 4.7261,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "8a",
+          "position": 19
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "76f7ed01c3be90d8c8ede32884ae4c36d5c398cffbd2be180f21e75d22216078"
+    },
+    {
+      "address": "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+      "shannon_entropy": 4.4905,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "bf0bcb84d9d04e3be63f8459d6d5ae83828505d5eef91af5868d19e36c577b29"
+    },
+    {
+      "address": "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+      "shannon_entropy": 4.8436,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f"
+    },
+    {
+      "address": "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+      "shannon_entropy": 4.6074,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f"
+    },
+    {
+      "address": "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+      "shannon_entropy": 4.4004,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f"
+    },
+    {
+      "address": "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+      "shannon_entropy": 4.629,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "ca26f2cdecbedce4b42ca1d2fe3ffa7a54a3a23234488f72584707325ffed29f"
+    },
+    {
+      "address": "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+      "shannon_entropy": 4.4791,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3"
+    },
+    {
+      "address": "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+      "shannon_entropy": 4.6506,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3"
+    },
+    {
+      "address": "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+      "shannon_entropy": 4.7077,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "d01400904a8a2564bb812ab674628c71d9270b9b7777afd530c5334a79eecda3"
+    },
+    {
+      "address": "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+      "shannon_entropy": 4.5784,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b"
+    },
+    {
+      "address": "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+      "shannon_entropy": 4.7505,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "73",
+          "position": 39
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b"
+    },
+    {
+      "address": "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+      "shannon_entropy": 4.6432,
+      "hash_entropy": 4.6639,
+      "chi_square_statistic": 320.0,
+      "chi_square_p_value": 0.003534,
+      "unique_bytes": 27,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "WEAK",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "4b921fff7310a9a768cbdcec12816ed80414e5c2414a68b7d87c0a1b5426ca0b"
+    },
+    {
+      "address": "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+      "shannon_entropy": 4.7933,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "2a",
+          "position": 19
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927"
+    },
+    {
+      "address": "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+      "shannon_entropy": 4.4929,
+      "hash_entropy": 4.7264,
+      "chi_square_statistic": 304.0,
+      "chi_square_p_value": 0.019057,
+      "unique_bytes": 28,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "39",
+          "position": 14
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927"
+    },
+    {
+      "address": "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo",
+      "shannon_entropy": 4.5136,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750531,
+      "transaction": "96c2693d05f130563feae145637ddb45d36622601441d25b874633a5f80be927"
+    },
+    {
+      "address": "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+      "shannon_entropy": 4.4182,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "2d",
+          "position": 47
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "407c9cffb02d51d18561671dac743b6033f7af0abbdabae1b9ab74261e315e00"
+    },
+    {
+      "address": "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+      "shannon_entropy": 4.5585,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae"
+    },
+    {
+      "address": "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+      "shannon_entropy": 4.6241,
+      "hash_entropy": 4.75,
+      "chi_square_statistic": 288.0,
+      "chi_square_p_value": 0.076098,
+      "unique_bytes": 28,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a4",
+          "position": 18
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae"
+    },
+    {
+      "address": "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+      "shannon_entropy": 4.4133,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "def905293900e3e56616f41258102ac0e9928638b47b71f61aac4967eb74d2ae"
+    },
+    {
+      "address": "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+      "shannon_entropy": 4.5765,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "3b9f6a21f5088e8e976a5ac59be0daa12caa419a22364cafbf221745a23cda21"
+    },
+    {
+      "address": "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+      "shannon_entropy": 4.6014,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "3b9f6a21f5088e8e976a5ac59be0daa12caa419a22364cafbf221745a23cda21"
+    },
+    {
+      "address": "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+      "shannon_entropy": 4.8229,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "6686af6fa4b05e8757c1ff5de62b3e765ae7b9f24d6179449fb163260aef12bb"
+    },
+    {
+      "address": "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+      "shannon_entropy": 4.5585,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "6686af6fa4b05e8757c1ff5de62b3e765ae7b9f24d6179449fb163260aef12bb"
+    },
+    {
+      "address": "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+      "shannon_entropy": 4.368,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3"
+    },
+    {
+      "address": "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+      "shannon_entropy": 4.404,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3"
+    },
+    {
+      "address": "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+      "shannon_entropy": 4.422,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "ecb1fa3e6ff6cee7033d87e1ef13a0650885367a89a5041840a3b02191e6d2c3"
+    },
+    {
+      "address": "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+      "shannon_entropy": 4.5849,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0"
+    },
+    {
+      "address": "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+      "shannon_entropy": 4.6537,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0"
+    },
+    {
+      "address": "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+      "shannon_entropy": 4.7383,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "40a520d4b2f951135e07ed4dc435e1c2d0264879dd5295e3299fc8044f7a23c0"
+    },
+    {
+      "address": "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+      "shannon_entropy": 4.5833,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "sequential",
+          "length": 4,
+          "position": 45
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219"
+    },
+    {
+      "address": "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+      "shannon_entropy": 4.8002,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219"
+    },
+    {
+      "address": "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+      "shannon_entropy": 4.9012,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 2,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a8",
+          "position": 46
+        },
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "95",
+          "position": 51
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "7a4887454ee01eda5dc26d7a04f2bc5ac3a2cad9942ba16ce4b8348c00a41219"
+    },
+    {
+      "address": "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+      "shannon_entropy": 4.2884,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "5048293b1c1a23916d7728e9ba823d3c446285a8da16087c73c5fff5d68ebd0b"
+    },
+    {
+      "address": "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+      "shannon_entropy": 4.4133,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "5048293b1c1a23916d7728e9ba823d3c446285a8da16087c73c5fff5d68ebd0b"
+    },
+    {
+      "address": "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+      "shannon_entropy": 4.4157,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "7158f5e456e23715df4eaf385d9c7ca684397939dc04161f08bc7eaad90e2c09"
+    },
+    {
+      "address": "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+      "shannon_entropy": 4.4633,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "7158f5e456e23715df4eaf385d9c7ca684397939dc04161f08bc7eaad90e2c09"
+    },
+    {
+      "address": "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+      "shannon_entropy": 4.5468,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "82",
+          "position": 5
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "866ee403fe6d490a34dd1356c3a8a6a0f411839d55df17c345ea1b790c32470e"
+    },
+    {
+      "address": "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+      "shannon_entropy": 4.5648,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "866ee403fe6d490a34dd1356c3a8a6a0f411839d55df17c345ea1b790c32470e"
+    },
+    {
+      "address": "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+      "shannon_entropy": 4.4789,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "6d3f5dcf72681b1bc463599e8656fa0ac9db7048f278ac4d11ca769bbf037146"
+    },
+    {
+      "address": "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+      "shannon_entropy": 4.2048,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "6d3f5dcf72681b1bc463599e8656fa0ac9db7048f278ac4d11ca769bbf037146"
+    },
+    {
+      "address": "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+      "shannon_entropy": 4.6717,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "b888304e009686b44ae061f15be237ab078b22b5aefda770a7dd7241acf0d06c"
+    },
+    {
+      "address": "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+      "shannon_entropy": 4.4516,
+      "hash_entropy": 4.6014,
+      "chi_square_statistic": 336.0,
+      "chi_square_p_value": 0.000495,
+      "unique_bytes": 26,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "f6",
+          "position": 14
+        }
+      ],
+      "weakness_level": "WEAK",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "0828e40e6d6866bb7b61114336e074e1988faf49a016008daca1f65b66a86783"
+    },
+    {
+      "address": "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd",
+      "shannon_entropy": 4.5405,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750530,
+      "transaction": "0828e40e6d6866bb7b61114336e074e1988faf49a016008daca1f65b66a86783"
+    },
+    {
+      "address": "tb1qtmrfp2u5nk4jfmk5f4jeyvny59ezmlzxau9m8e",
+      "shannon_entropy": 4.4336,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "35dada77a6e50a1049eb6dff3bd6eba5fbc023dd60af1bb995114fcce240d2c3"
+    },
+    {
+      "address": "tb1qkhfkacnyq2e9vwj6drzw92qhmp4tuk4y3lhrjx",
+      "shannon_entropy": 4.6717,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "35dada77a6e50a1049eb6dff3bd6eba5fbc023dd60af1bb995114fcce240d2c3"
+    },
+    {
+      "address": "tb1q48rrf3p9u0uvf7ezmatt22c4nkxyvvgezrga5k",
+      "shannon_entropy": 4.6241,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "6f060ee5a96e8b9abe1da82de944b24c2be48ba6775efa6c2e8049c3860c2df2"
+    },
+    {
+      "address": "tb1qu9pxx4cg8g87avedaf7vkpeqf5sa55jfll45du",
+      "shannon_entropy": 4.404,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "6f060ee5a96e8b9abe1da82de944b24c2be48ba6775efa6c2e8049c3860c2df2"
+    },
+    {
+      "address": "tb1q8cjs6fhmlaaflzd9cegjlmu5fs6u67mhh8gcu0",
+      "shannon_entropy": 4.3617,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "sequential",
+          "length": 4,
+          "position": 12
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "a8a5d4d27fefdf19d5a515543bb35b023b393ce88fb8362f7ed6a40ace44044a"
+    },
+    {
+      "address": "tb1qe53fq47trq7tnkjht55cgssthjypwvsw476q65",
+      "shannon_entropy": 4.2704,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "a8a5d4d27fefdf19d5a515543bb35b023b393ce88fb8362f7ed6a40ace44044a"
+    },
+    {
+      "address": "tb1qhcgu6f353c2ranqkuwx8h74wyh4zzm5umlmqhl",
+      "shannon_entropy": 4.5289,
+      "hash_entropy": 4.75,
+      "chi_square_statistic": 288.0,
+      "chi_square_p_value": 0.076098,
+      "unique_bytes": 28,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "6b",
+          "position": 24
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "176e011c1703cbafcde5d4ae7f1560c8ac1fbb2c2047391cd93fa24b972288b2"
+    },
+    {
+      "address": "tb1qqtuwzvg9za98dwe7g7r202y6cxe82hl6tt64f7",
+      "shannon_entropy": 4.5289,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "176e011c1703cbafcde5d4ae7f1560c8ac1fbb2c2047391cd93fa24b972288b2"
+    },
+    {
+      "address": "2MxQDRytQtPURyowd5ZgoJGJB53coMJBRNF",
+      "shannon_entropy": 4.3789,
+      "hash_entropy": 4.875,
+      "chi_square_statistic": 256.0,
+      "chi_square_p_value": 0.470609,
+      "unique_bytes": 30,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "8725d52054c841bba751b2c603e8c11f97c7aeedc011fb7e8a86cdca6fc269f8"
+    },
+    {
+      "address": "2NDeDsPXziRBtdy2Wx2vAhpytWB7ufa8aJY",
+      "shannon_entropy": 4.6506,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "8725d52054c841bba751b2c603e8c11f97c7aeedc011fb7e8a86cdca6fc269f8"
+    },
+    {
+      "address": "tb1q292ugqqcklpnzlngn490h7n3f7ut0nt8tuxqxz",
+      "shannon_entropy": 4.2408,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650"
+    },
+    {
+      "address": "tb1q3j3rhxqjvanvzu7fvtsjgn7svdcz52ssj4vmns",
+      "shannon_entropy": 4.2977,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650"
+    },
+    {
+      "address": "tb1qsmul7238upywp3k6p4qm2a25tlp59glyn7jzr2",
+      "shannon_entropy": 4.5172,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "ea",
+          "position": 48
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650"
+    },
+    {
+      "address": "tb1q4kw7vxcfy86y2mwhtsnqquyful6ux9ltr6kpe8",
+      "shannon_entropy": 4.5405,
+      "hash_entropy": 4.75,
+      "chi_square_statistic": 288.0,
+      "chi_square_p_value": 0.076098,
+      "unique_bytes": 28,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650"
+    },
+    {
+      "address": "tb1qnvlqx6jh5xpgl654z7c2h9ahhl4pxeh8qyc73n",
+      "shannon_entropy": 4.4429,
+      "hash_entropy": 5.0,
+      "chi_square_statistic": 224.0,
+      "chi_square_p_value": 0.919662,
+      "unique_bytes": 32,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "53",
+          "position": 49
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "b665a13ee21920f6be93a9caf2011b9136ebf14d0693359126af9ca9bd986650"
+    },
+    {
+      "address": "tb1qm8ucg0d2ty7fqre9zx9j0dd56f676xvyjxpl47",
+      "shannon_entropy": 4.6061,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77"
+    },
+    {
+      "address": "tb1qtnus3wmqyrspcw24xc2agc7qvtfs4yvuf0xj0p",
+      "shannon_entropy": 4.4633,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77"
+    },
+    {
+      "address": "tb1qw2c3lxufxqe2x9s4rdzh65tpf4d7fssjgh8nv6",
+      "shannon_entropy": 4.7193,
+      "hash_entropy": 4.8125,
+      "chi_square_statistic": 272.0,
+      "chi_square_p_value": 0.221829,
+      "unique_bytes": 29,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a6",
+          "position": 37
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "3daf5c8f685488701e687fd1ca7780ec7c9a084fe4dfd325daaf23a7e0dcfb77"
+    },
+    {
+      "address": "tb1qgd9r4gxrg2razvfut5qnje0naauag8agzya06e",
+      "shannon_entropy": 4.3001,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 1,
+      "pattern_details": [
+        {
+          "type": "repetition",
+          "length": 2,
+          "value": "a7",
+          "position": 58
+        }
+      ],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e"
+    },
+    {
+      "address": "tb1qlslwed2t06mrahctucgz38w6r7hncpvy6y0nc4",
+      "shannon_entropy": 4.6421,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e"
+    },
+    {
+      "address": "tb1qzjce5zw7j3ugd0hvcfkm4j4y5ly7sqcjjzql2u",
+      "shannon_entropy": 4.4905,
+      "hash_entropy": 4.9375,
+      "chi_square_statistic": 240.0,
+      "chi_square_p_value": 0.741516,
+      "unique_bytes": 31,
+      "patterns_detected": 0,
+      "pattern_details": [],
+      "weakness_level": "SUSPICIOUS",
+      "is_weak": true,
+      "block_height": 4750529,
+      "transaction": "f91d54c9e8c9f99906d2bff87e0195f48700ab73bdae6d904d66aa7062caa73e"
+    }
+  ],
+  "patterns": {
+    "sequential": [],
+    "temporal_clusters": [
+      {
+        "type": "temporal_cluster",
+        "block_height": 4750533,
+        "address_count": 14,
+        "addresses": [
+          "mp52VHqmkNgzzuuM9Fcc6uXrrzH4SvL3Yx",
+          "tb1qf9386ynqyz9cek685qn483dx9u2nsezf4fug2r",
+          "tb1qpw693a6l8yvp25n88gz3hjwr5pq3lfpnfdersa",
+          "tb1q9hgyvdu3px95md89qh89my2gatg7jhtqsp8uj3",
+          "tb1qmf5pdg29guzvm5pngqmawfywdf357tjh85vs2a",
+          "tb1p8qh68rvq2aq4qswq0mu2unv2nzf5serfs4rvd4a77yhnqn00khssscgwqs",
+          "tb1pw2hn68wgx9nqhq9nhq35h8pthkxnv4afp9klzka9mrhf9cjg2jxqawcvhx",
+          "tb1p7y86tuw2p6vle767dacvde72n4a8r7nljekqm9zxy6gnmzy6xrnq5dkqdq",
+          "tb1qashx6f8kw29fq5rwcnpuzh5aufu24xquevdk7y",
+          "tb1qwzac060kz4wyczdvl46sp9nrtp60cgp4x9gewm",
+          "tb1qkpds9027dv2yuuvuf67kd7ud9t9z47vx4esaje",
+          "tb1q2thl5qjx5cdyge4snq5f9xyheup5zuc4egxlcx",
+          "tb1q77hz5gj0050k5p4vsx9dgy368fhamakdr22n5h",
+          "tb1qjmdk4y55ftn47wvhwdlhuf99pjf95zcxy2n7rq"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster",
+        "block_height": 4750532,
+        "address_count": 11,
+        "addresses": [
+          "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+          "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+          "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+          "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+          "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+          "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+          "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+          "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+          "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+          "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+          "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster",
+        "block_height": 4750531,
+        "address_count": 26,
+        "addresses": [
+          "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+          "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+          "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+          "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+          "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+          "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+          "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+          "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+          "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+          "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+          "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+          "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+          "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+          "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+          "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+          "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+          "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+          "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+          "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+          "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+          "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+          "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+          "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+          "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+          "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+          "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster",
+        "block_height": 4750530,
+        "address_count": 28,
+        "addresses": [
+          "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+          "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+          "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+          "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+          "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+          "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+          "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+          "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+          "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+          "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+          "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+          "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+          "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+          "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+          "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+          "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+          "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+          "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+          "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+          "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+          "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+          "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+          "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+          "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+          "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+          "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+          "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+          "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster",
+        "block_height": 4750529,
+        "address_count": 21,
+        "addresses": [
+          "tb1qtmrfp2u5nk4jfmk5f4jeyvny59ezmlzxau9m8e",
+          "tb1qkhfkacnyq2e9vwj6drzw92qhmp4tuk4y3lhrjx",
+          "tb1q48rrf3p9u0uvf7ezmatt22c4nkxyvvgezrga5k",
+          "tb1qu9pxx4cg8g87avedaf7vkpeqf5sa55jfll45du",
+          "tb1q8cjs6fhmlaaflzd9cegjlmu5fs6u67mhh8gcu0",
+          "tb1qe53fq47trq7tnkjht55cgssthjypwvsw476q65",
+          "tb1qhcgu6f353c2ranqkuwx8h74wyh4zzm5umlmqhl",
+          "tb1qqtuwzvg9za98dwe7g7r202y6cxe82hl6tt64f7",
+          "2MxQDRytQtPURyowd5ZgoJGJB53coMJBRNF",
+          "2NDeDsPXziRBtdy2Wx2vAhpytWB7ufa8aJY",
+          "tb1q292ugqqcklpnzlngn490h7n3f7ut0nt8tuxqxz",
+          "tb1q3j3rhxqjvanvzu7fvtsjgn7svdcz52ssj4vmns",
+          "tb1qsmul7238upywp3k6p4qm2a25tlp59glyn7jzr2",
+          "tb1q4kw7vxcfy86y2mwhtsnqquyful6ux9ltr6kpe8",
+          "tb1qnvlqx6jh5xpgl654z7c2h9ahhl4pxeh8qyc73n",
+          "tb1qm8ucg0d2ty7fqre9zx9j0dd56f676xvyjxpl47",
+          "tb1qtnus3wmqyrspcw24xc2agc7qvtfs4yvuf0xj0p",
+          "tb1qw2c3lxufxqe2x9s4rdzh65tpf4d7fssjgh8nv6",
+          "tb1qgd9r4gxrg2razvfut5qnje0naauag8agzya06e",
+          "tb1qlslwed2t06mrahctucgz38w6r7hncpvy6y0nc4",
+          "tb1qzjce5zw7j3ugd0hvcfkm4j4y5ly7sqcjjzql2u"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster_range",
+        "block_range": [
+          4750529,
+          4750530
+        ],
+        "address_count": 49,
+        "addresses": [
+          "tb1qtmrfp2u5nk4jfmk5f4jeyvny59ezmlzxau9m8e",
+          "tb1qkhfkacnyq2e9vwj6drzw92qhmp4tuk4y3lhrjx",
+          "tb1q48rrf3p9u0uvf7ezmatt22c4nkxyvvgezrga5k",
+          "tb1qu9pxx4cg8g87avedaf7vkpeqf5sa55jfll45du",
+          "tb1q8cjs6fhmlaaflzd9cegjlmu5fs6u67mhh8gcu0",
+          "tb1qe53fq47trq7tnkjht55cgssthjypwvsw476q65",
+          "tb1qhcgu6f353c2ranqkuwx8h74wyh4zzm5umlmqhl",
+          "tb1qqtuwzvg9za98dwe7g7r202y6cxe82hl6tt64f7",
+          "2MxQDRytQtPURyowd5ZgoJGJB53coMJBRNF",
+          "2NDeDsPXziRBtdy2Wx2vAhpytWB7ufa8aJY",
+          "tb1q292ugqqcklpnzlngn490h7n3f7ut0nt8tuxqxz",
+          "tb1q3j3rhxqjvanvzu7fvtsjgn7svdcz52ssj4vmns",
+          "tb1qsmul7238upywp3k6p4qm2a25tlp59glyn7jzr2",
+          "tb1q4kw7vxcfy86y2mwhtsnqquyful6ux9ltr6kpe8",
+          "tb1qnvlqx6jh5xpgl654z7c2h9ahhl4pxeh8qyc73n",
+          "tb1qm8ucg0d2ty7fqre9zx9j0dd56f676xvyjxpl47",
+          "tb1qtnus3wmqyrspcw24xc2agc7qvtfs4yvuf0xj0p",
+          "tb1qw2c3lxufxqe2x9s4rdzh65tpf4d7fssjgh8nv6",
+          "tb1qgd9r4gxrg2razvfut5qnje0naauag8agzya06e",
+          "tb1qlslwed2t06mrahctucgz38w6r7hncpvy6y0nc4",
+          "tb1qzjce5zw7j3ugd0hvcfkm4j4y5ly7sqcjjzql2u",
+          "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+          "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+          "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+          "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+          "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+          "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+          "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+          "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+          "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+          "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+          "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+          "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+          "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+          "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+          "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+          "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+          "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+          "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+          "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+          "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+          "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+          "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+          "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+          "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+          "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+          "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+          "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+          "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster_range",
+        "block_range": [
+          4750530,
+          4750531
+        ],
+        "address_count": 54,
+        "addresses": [
+          "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+          "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+          "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+          "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+          "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+          "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+          "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+          "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+          "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+          "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+          "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+          "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+          "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+          "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+          "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+          "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+          "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+          "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+          "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+          "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+          "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+          "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+          "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+          "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+          "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+          "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+          "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+          "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd",
+          "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+          "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+          "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+          "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+          "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+          "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+          "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+          "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+          "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+          "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+          "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+          "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+          "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+          "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+          "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+          "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+          "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+          "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+          "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+          "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+          "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+          "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+          "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+          "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+          "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+          "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster_range",
+        "block_range": [
+          4750531,
+          4750532
+        ],
+        "address_count": 37,
+        "addresses": [
+          "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+          "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+          "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+          "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+          "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+          "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+          "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+          "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+          "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+          "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+          "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+          "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+          "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+          "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+          "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+          "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+          "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+          "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+          "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+          "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+          "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+          "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+          "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+          "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+          "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+          "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo",
+          "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+          "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+          "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+          "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+          "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+          "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+          "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+          "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+          "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+          "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+          "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "type": "temporal_cluster_range",
+        "block_range": [
+          4750532,
+          4750533
+        ],
+        "address_count": 25,
+        "addresses": [
+          "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+          "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+          "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+          "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+          "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+          "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+          "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+          "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+          "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+          "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+          "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur",
+          "mp52VHqmkNgzzuuM9Fcc6uXrrzH4SvL3Yx",
+          "tb1qf9386ynqyz9cek685qn483dx9u2nsezf4fug2r",
+          "tb1qpw693a6l8yvp25n88gz3hjwr5pq3lfpnfdersa",
+          "tb1q9hgyvdu3px95md89qh89my2gatg7jhtqsp8uj3",
+          "tb1qmf5pdg29guzvm5pngqmawfywdf357tjh85vs2a",
+          "tb1p8qh68rvq2aq4qswq0mu2unv2nzf5serfs4rvd4a77yhnqn00khssscgwqs",
+          "tb1pw2hn68wgx9nqhq9nhq35h8pthkxnv4afp9klzka9mrhf9cjg2jxqawcvhx",
+          "tb1p7y86tuw2p6vle767dacvde72n4a8r7nljekqm9zxy6gnmzy6xrnq5dkqdq",
+          "tb1qashx6f8kw29fq5rwcnpuzh5aufu24xquevdk7y",
+          "tb1qwzac060kz4wyczdvl46sp9nrtp60cgp4x9gewm",
+          "tb1qkpds9027dv2yuuvuf67kd7ud9t9z47vx4esaje",
+          "tb1q2thl5qjx5cdyge4snq5f9xyheup5zuc4egxlcx",
+          "tb1q77hz5gj0050k5p4vsx9dgy368fhamakdr22n5h",
+          "tb1qjmdk4y55ftn47wvhwdlhuf99pjf95zcxy2n7rq"
+        ],
+        "confidence": 1.0
+      }
+    ],
+    "low_entropy_groups": [
+      {
+        "type": "low_entropy_group",
+        "count": 100,
+        "addresses": [
+          "mp52VHqmkNgzzuuM9Fcc6uXrrzH4SvL3Yx",
+          "tb1qf9386ynqyz9cek685qn483dx9u2nsezf4fug2r",
+          "tb1qpw693a6l8yvp25n88gz3hjwr5pq3lfpnfdersa",
+          "tb1q9hgyvdu3px95md89qh89my2gatg7jhtqsp8uj3",
+          "tb1qmf5pdg29guzvm5pngqmawfywdf357tjh85vs2a",
+          "tb1p8qh68rvq2aq4qswq0mu2unv2nzf5serfs4rvd4a77yhnqn00khssscgwqs",
+          "tb1pw2hn68wgx9nqhq9nhq35h8pthkxnv4afp9klzka9mrhf9cjg2jxqawcvhx",
+          "tb1p7y86tuw2p6vle767dacvde72n4a8r7nljekqm9zxy6gnmzy6xrnq5dkqdq",
+          "tb1qashx6f8kw29fq5rwcnpuzh5aufu24xquevdk7y",
+          "tb1qwzac060kz4wyczdvl46sp9nrtp60cgp4x9gewm",
+          "tb1qkpds9027dv2yuuvuf67kd7ud9t9z47vx4esaje",
+          "tb1q2thl5qjx5cdyge4snq5f9xyheup5zuc4egxlcx",
+          "tb1q77hz5gj0050k5p4vsx9dgy368fhamakdr22n5h",
+          "tb1qjmdk4y55ftn47wvhwdlhuf99pjf95zcxy2n7rq",
+          "tb1qqws3aatj6jz2nz8d7zefwmtmcccx4umlc5ygr7",
+          "mxpYha3UJKUgSwsAz2qYRqaDSwAkKZ3YEY",
+          "tb1pd94k6956rdcfhckz4rqdlnt0p8nllhuwe5jad7psev4he9p50l9qpfrapr",
+          "tb1qp8z86v0y78pv58ht8y4a7yqxf28096dlcqwhku",
+          "tb1qmrl32zy2532pxxpd5vkwehkaa842vwhmfwcqyv",
+          "tb1qpv9ff0vgjrvy0c2lkhmtx69y57ddaxvjazkcum",
+          "2MspywMNAT7N4tK2rBgcKt3QRAXWax66ahU",
+          "2NB83EMWf8A3SaWbVEyEQBBFSR322ixcgfE",
+          "2N1sd8fZZ4CHDkyu1EzTDujgjA6SMHY552Z",
+          "tb1qj8pxqh8suqx334q5l2v2ukdsc4vx2z02q5h9c4",
+          "tb1qa8slzy0yr8xm0x83fev0ygw552cfgu47k269ur",
+          "tb1q4qkrnwpyqwmnckgjyzmq9zp2s9gvqzggt6pd3d",
+          "tb1qrgu7sp6twm99c7p8yw0328wjn43vp2nhe2thap",
+          "tb1q9w8tzexv8477gh3wfsyg2tmjfxcrncn3zp4v9p",
+          "tb1qpy0g9wu70vvfeyg7c6ejvjlfnm6wmuvma4fuld",
+          "tb1qk652gmyh7hupyw3f90fcs8e8tr735lt78us4xd",
+          "tb1qpawrsvmey5vgczg8rk9eg362mezpqtwtxl3e3u",
+          "tb1qj76gvqnvn6amdyr755uf67v3jzv982rmmjxy2u",
+          "tb1qjhnn96vdjczf3qs92vm8skngnkrjnrmuthg6zx",
+          "2NENU9eA76LcjhyNpV7wTKWVsaHybBP6qjF",
+          "2N5wGopS2U5kBZwQ1RNP2nDHbxPJoJAnJDc",
+          "tb1pc8lqu9l3thvwl4f83zws89xwulafxgleepdm9lk4x6nk584u6axqfvhkyk",
+          "tb1p7cxn89t8v3luwzzll5yhmlm4xzyvfh0dglqa9av3u780jajy04nscnnt8e",
+          "tb1qx628udn26vdp8q3w089eaqznnnrxuj5uvrnyhl",
+          "2Mth4myXTo9RMjZKNdcs6q58ox25jC1Qpwi",
+          "2MuGb1NwJSXe5W1nGUs9TTgz57GQB1wFTd6",
+          "2My1VGB3XXneq6S4MGnk4w2GLS7r36QLJa6",
+          "2N8VCpjDPYfu49Z5DnQDkc4oJNLMtB8sfLL",
+          "2N2EEW59VUUPbsE9eim35WHqZrnMQoETUum",
+          "2N1SWZYGpTWp97vywsbQ8SyEn2rDXrqz2NR",
+          "2N5H3Eiw9cPfH3F5jodUXUmT9QXpZChA6Ue",
+          "tb1p7l7p9rv8r6lhsr8l9n0vpe3r6du4f6xfkhpjsj09drnsrpj8wrtqwf0y24",
+          "tb1qvgmdkjug5gk7plv8xn4lfn6fk4vwpztec0zmu6aduwgfvxjwchyskcuv9l",
+          "tb1p5hxlqh08zkgy99srl3t4a7a5eygu4llx3g33tpssdd5rjqjatwkqjds0pc",
+          "mupRSix9gLY13iaMTjtn3kvNQcZYy1rd5c",
+          "tb1q4fne3m7ae9mr3f4muzvacpxlej3wlsqrf6vxq9",
+          "mpwSyzzT4hLJ2Fsytc62t5FRczUdusyDCo",
+          "n33npN2oRNJFFpdoxkrm2CVyZAfRGFxALt",
+          "tb1qw6vlsmu7qtwn40afuekck40ynce9nrydvtjuzy",
+          "tb1qwej84sy2kw0a0f5hdgxqej2rqhl7xuhf6cl0ts",
+          "tb1q7308qdrx449mhnrqnn86guav9sj2wq2nq9429z",
+          "tb1qsjec07kxjwzyxm2c8uc744gjp7v3jzhzrpg6uq",
+          "tb1qn5rrryjgsekl008a2py0rhc94m0dr3wsapuvw0",
+          "tb1pmuzm5aqs94yf3dvjacw0u4h9lfv7w6lwz2lxk436s3my9w5nprlq2r8l6s",
+          "tb1qtzkg8m7agdlruvtc8vsqyu3h2r7nv89aqajpft",
+          "tb1q205m0dvhdtqrqlpdm06p8wnwwmvdae9mchlhg4",
+          "tb1qfswsvpktctzax2hq8y3xzkmjyjwtrsr8ruy5as",
+          "tb1qrpzy52te2q53htdmz0sqcqdfv3s6t77lcv29lp",
+          "tb1pc6mtdt43qa3e5k4g3vfthdtk0ns56vc637vkgcaht2py6yx3frfqcuyrgx",
+          "tb1p4t63ca5dckk856qsp2ezsqz3jtutajzqmsxv06q839n08azl3cwssm9xfu",
+          "tb1p9grhpvsefhw60cz08s8y2fafg652yx632snd7y9dqlxfeg6whdlqjzf5sr",
+          "tb1pd5cuxct9cys4jfultj2np7tvjvqdmrjf4w3ptedpwrd3mm3ep0xq229l9n",
+          "tb1pvnxtex4c5k3vysegyufy5jnrhqw28zy6umu85jzq2pgq90k07v0spsje68",
+          "tb1pr2a4xxth0vq8cy6fp4u6za7shq55s3we3dmzgxjp2k8nnl2rdmjsw8dmxr",
+          "tb1qse9satjazu4f07eq6u76hndevel6w86f477het",
+          "tb1q3u0qym938hl5248955umcmegppag48780rwr8y",
+          "tb1qjgknxyj00luy6fejedjsdwkak8txgea2t4dw2h",
+          "tb1qmf3kxmmwxlzuncq5tef9pgfcwvlzgmy9xagt6h",
+          "tb1qtedua6tg0wlzsf0l3el09cxpjwd2wk6v70cslm",
+          "tb1qfyvkvwg2xhzxpuuhjqnmmklvnnr5dg3v32l4ya",
+          "tb1qc0uhz8qh73l2ulpx4afu85ruxu3k29rydkdhtc",
+          "tb1q5he2qp22qa64a6qp9pm47e8u6qnf6hwt5mnl88",
+          "tb1qdhc2l3d3w348re4j70a0cykvmh47ptwu8fk9nh",
+          "tb1qeesj2psr4nwgchdkph2rj0u6t0app5v0tgs6s9",
+          "tb1qjka5cvulkhxu244tvzdw6q8ungf9zr4q8nzwkd",
+          "tb1qtmrfp2u5nk4jfmk5f4jeyvny59ezmlzxau9m8e",
+          "tb1qkhfkacnyq2e9vwj6drzw92qhmp4tuk4y3lhrjx",
+          "tb1q48rrf3p9u0uvf7ezmatt22c4nkxyvvgezrga5k",
+          "tb1qu9pxx4cg8g87avedaf7vkpeqf5sa55jfll45du",
+          "tb1q8cjs6fhmlaaflzd9cegjlmu5fs6u67mhh8gcu0",
+          "tb1qe53fq47trq7tnkjht55cgssthjypwvsw476q65",
+          "tb1qhcgu6f353c2ranqkuwx8h74wyh4zzm5umlmqhl",
+          "tb1qqtuwzvg9za98dwe7g7r202y6cxe82hl6tt64f7",
+          "2MxQDRytQtPURyowd5ZgoJGJB53coMJBRNF",
+          "2NDeDsPXziRBtdy2Wx2vAhpytWB7ufa8aJY",
+          "tb1q292ugqqcklpnzlngn490h7n3f7ut0nt8tuxqxz",
+          "tb1q3j3rhxqjvanvzu7fvtsjgn7svdcz52ssj4vmns",
+          "tb1qsmul7238upywp3k6p4qm2a25tlp59glyn7jzr2",
+          "tb1q4kw7vxcfy86y2mwhtsnqquyful6ux9ltr6kpe8",
+          "tb1qnvlqx6jh5xpgl654z7c2h9ahhl4pxeh8qyc73n",
+          "tb1qm8ucg0d2ty7fqre9zx9j0dd56f676xvyjxpl47",
+          "tb1qtnus3wmqyrspcw24xc2agc7qvtfs4yvuf0xj0p",
+          "tb1qw2c3lxufxqe2x9s4rdzh65tpf4d7fssjgh8nv6",
+          "tb1qgd9r4gxrg2razvfut5qnje0naauag8agzya06e",
+          "tb1qlslwed2t06mrahctucgz38w6r7hncpvy6y0nc4",
+          "tb1qzjce5zw7j3ugd0hvcfkm4j4y5ly7sqcjjzql2u"
+        ],
+        "avg_entropy": 4.531379,
+        "confidence": 1.0
+      }
+    ],
+    "mt19937_fingerprints": [],
+    "total_patterns": 10
+  },
+  "recovered_keys": []
+}

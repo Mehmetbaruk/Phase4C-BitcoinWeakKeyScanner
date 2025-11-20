@@ -1,0 +1,99 @@
+EDUCATIONAL AND RESEARCH USE LICENSE
+
+Copyright (c) 2025 Bitcoin Weak Key Scanner Project
+
+TERMS AND CONDITIONS
+
+1. PERMITTED USE
+   This software is provided for educational and security research purposes only.
+   Permitted uses include:
+   - Academic research and publications
+   - Security education and training
+   - Vulnerability assessment on TESTNET ONLY
+   - Historical cryptographic analysis
+   - Development of security tools and techniques
+
+2. PROHIBITED USE
+   The following uses are strictly prohibited:
+   - Scanning or attempting to access Bitcoin MAINNET addresses
+   - Theft or unauthorized access to cryptocurrency funds
+   - Any commercial exploitation without explicit permission
+   - Any illegal activity under applicable laws
+   - Distribution without proper attribution
+
+3. TESTNET ONLY ENFORCEMENT
+   This software is designed and enforced to operate ONLY on Bitcoin testnet.
+   Any attempt to modify this software for mainnet use is:
+   - A violation of these terms
+   - Potentially illegal under computer fraud and abuse laws
+   - Ethically wrong and harmful to the cryptocurrency ecosystem
+
+4. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+5. LIMITATION OF LIABILITY
+   The authors and contributors of this software shall not be held responsible
+   for any misuse, damage, or legal consequences arising from the use of this
+   software. Users assume all responsibility and risk for their use of this tool.
+
+6. ATTRIBUTION
+   Any publication, presentation, or derivative work using this software must
+   provide proper attribution to the original authors and project.
+
+7. MODIFICATIONS
+   Modifications and derivative works are permitted under the following conditions:
+   - Testnet-only enforcement must be maintained
+   - This license must be included in all copies
+   - Attribution to original work must be preserved
+   - Modifications must be clearly documented
+
+8. COMPLIANCE WITH LAWS
+   Users must comply with all applicable local, state, national, and international
+   laws and regulations. This includes, but is not limited to:
+   - Computer fraud and abuse laws
+   - Unauthorized access laws
+   - Cryptocurrency regulations
+   - Data protection and privacy laws
+
+9. ETHICAL RESPONSIBILITY
+   Users of this software acknowledge their ethical responsibility to:
+   - Use the tool only for legitimate research purposes
+   - Report any discovered vulnerabilities responsibly
+   - Respect the security and privacy of others
+   - Contribute to the improvement of cryptocurrency security
+
+10. REVOCATION
+    This license may be revoked for any user found to be in violation of these
+    terms and conditions.
+
+ACCEPTANCE
+
+By downloading, installing, or using this software, you acknowledge that you have
+read, understood, and agree to be bound by these terms and conditions.
+
+PROJECT INFORMATION
+
+Project: Bitcoin Weak Key Scanner
+Purpose: Reproducing the "Milk Sad" vulnerability for educational purposes
+Contact: See README.md for project information
+Version: 1.0.0
+Date: November 2025
+
+DISCLAIMER
+
+This tool is a reproduction of a historical vulnerability and is intended to
+demonstrate the importance of proper entropy in cryptographic key generation.
+It should serve as a warning about the dangers of weak random number generation
+in security-critical applications.
+
+The existence of this tool does not encourage or condone any malicious use.
+It exists to educate security researchers, developers, and the cryptocurrency
+community about past vulnerabilities and how to prevent them in the future.
+
+USE RESPONSIBLY. RESPECT THE LAW. PROTECT PRIVACY.

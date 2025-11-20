@@ -1,0 +1,42 @@
+analysis:
+  chi_square_p_threshold: 0.01
+  entropy_threshold: 7.0
+  pattern_detection_enabled: true
+  suspicious_threshold: 7.5
+api:
+  base_url: https://mempool.space/testnet/api
+  provider: mempool.space
+  rate_limit: 30
+  retry_attempts: 3
+  retry_delay: 2
+  timeout: 10
+bitcoin_network: testnet
+key_recovery:
+  max_recovery_attempts: 10
+  timeout_per_address: 3600
+output:
+  checkpoint_file: ./checkpoint.json
+  json_logging: true
+  log_dir: ./logs
+  log_level: INFO
+  results_dir: ./results
+prng_attack:
+  mode: test
+  parallel_workers: 4
+  progress_interval: 10000
+  seed_space_full_mode: 4294967296
+  seed_space_test_mode: 65536
+safety:
+  allowed_prefixes:
+  - m
+  - n
+  - '2'
+  - tb1
+  enforce_testnet_prefix: true
+  max_api_calls: 100000
+  testnet_only: true
+scanning:
+  batch_size: 1000
+  checkpoint_interval: 100
+  num_addresses: 100
+  resume_from_checkpoint: true

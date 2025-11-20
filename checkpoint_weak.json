@@ -1,0 +1,228 @@
+{
+  "timestamp": "2025-11-05T17:02:00.770776",
+  "addresses_processed": 10,
+  "weak_found": 10,
+  "keys_recovered": 0,
+  "addresses_analyzed": [
+    {
+      "address": "mwT8doenqRh2b5bzxiB4cZW5K2sNZJLsfz",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_001",
+      "collected_at": "2025-11-05T17:02:00.713422",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 1,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "n1iGov7QjqJzwMpA8LqjgTaNLbgWdapk2t",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_002",
+      "collected_at": "2025-11-05T17:02:00.720347",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 2,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mumBnXH59xgw9htHEikqXa1sNmQPVPgtng",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_003",
+      "collected_at": "2025-11-05T17:02:00.726933",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 3,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mq8QNdPP3jokGKohyDLjqSiSStRm6CnsSp",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_004",
+      "collected_at": "2025-11-05T17:02:00.733614",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 4,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "moYU9s1ogFG91FZHxxEJJefd5fxSHRgWss",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_005",
+      "collected_at": "2025-11-05T17:02:00.739771",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 5,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "n2wowvj4aSYjziRYb5sTiDWsA3hQqijnF9",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_006",
+      "collected_at": "2025-11-05T17:02:00.746148",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 6,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mpFD1MvPsBS3oA7jAe7m9p32yUxRcPF2ot",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_007",
+      "collected_at": "2025-11-05T17:02:00.752476",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 7,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mg4bvfSGeWcoqsrL9rYg4YwNKR8YRSQ2KF",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_008",
+      "collected_at": "2025-11-05T17:02:00.758477",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 8,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mjmF3f8aLTSMfA7YfTV8Ls1VcvWLmPns7L",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_009",
+      "collected_at": "2025-11-05T17:02:00.764667",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 9,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    },
+    {
+      "address": "mk5kVa1LNKQ5uy3NsrHMy2mC9VeYQgkqpG",
+      "block_height": 4750533,
+      "block_hash": "00000000000833a80bca5e3d618793e104155546ce3b7be88735e70703d311ea",
+      "transaction": "weak_key_test_010",
+      "collected_at": "2025-11-05T17:02:00.770659",
+      "entropy_score": 4.5,
+      "is_suspicious": true,
+      "analysis": {
+        "shannon_entropy": 4.5,
+        "chi_square_p": 0.001,
+        "hash_entropy": 4.3
+      },
+      "patterns": [
+        "low_entropy"
+      ],
+      "metadata": {
+        "weak_seed": 10,
+        "test_address": true,
+        "expected_recovery": true
+      }
+    }
+  ]
+}
